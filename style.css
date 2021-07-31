@@ -27,7 +27,7 @@ footer {
   text-decoration: none; /* no underline */
 }
 
-.box {
+.accordion {
   text-align: left;
   background-color:#3F48CC;
   color:white;
