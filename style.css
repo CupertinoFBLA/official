@@ -26,3 +26,7 @@ footer {
   color: black;
   text-decoration: none; /* no underline */
 }
+
+.accordion { 
+position: absolute; left: 50%; transform: translate(-50%); width: 12%; 
+}
