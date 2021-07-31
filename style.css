@@ -27,6 +27,13 @@ footer {
   text-decoration: none; /* no underline */
 }
 
-.accordion { 
-position: absolute; left: 50%; transform: translate(-50%); width: 12%; 
+.box {
+  text-align: left;
+  background-color:#3F48CC;
+  color:white;
+  font-weight:bold;
+  margin:120px auto;
+  height:150px;
+  display: inline-block;
+  width: 200px;
 }
